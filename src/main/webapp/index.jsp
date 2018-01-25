@@ -15,3 +15,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <title>Main page</title>
+<h3> User Management System </h3>
+<br>
+
+<a href="/addUserForm">Add User </a>
+<br>
+<a href="/findUserForm">Find User </a>
+<br>
+<a href="/listAllUsers">Display all Users </a>
+<br>
