@@ -12,9 +12,9 @@
 <div id="page">
 
     <div id="header">
-        <a href="addUser">Add User</a>
-        <a href="findUser">Find User</a>
-        <a href="list">List all users</a>
+        <a href="addUser">Add New User</a>
+        <a href="findUser">Find existing User</a>
+        <a href="list">Display existing users</a>
     </div>
 
     <div id="content">
